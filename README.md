@@ -6,13 +6,13 @@
 
 [Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) implementation in Python.
 
-### Running the notebook
+## Running the notebook
 
 The code was written in Python across Jupyter notebooks. It was developed in Google Colab which is a free Jupyter notebook environment that allows you to run code through a browser.
 
 Follow [this link](https://drive.google.com/file/d/1V9Xa-Tx3Zl7xktCQdRIVo36Ob83TbW5d/view?usp=sharing) to open the notepad with this code and click on Google Colaboratory.
 
-# Samples
+## Samples
 
 Find the minimum of a function of two variables:
 
