@@ -1,5 +1,9 @@
 # Python Genetic Algorithms
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Nekhocheninov/Genetic-Algorithms/blob/main/LICENSE.md)
+![GitHub last commit](https://img.shields.io/github/last-commit/Nekhocheninov/Genetic-Algorithms)
+[![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-Open-blue?logo=google-colab)](https://drive.google.com/file/d/1V9Xa-Tx3Zl7xktCQdRIVo36Ob83TbW5d/view?usp=sharing)
+
 [Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) implementation in Python.
 
 ### Running the notebook
